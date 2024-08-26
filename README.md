@@ -12,8 +12,8 @@ Nuance is a content management system dedicated to distributing software updates
 Github coming soon!
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/LexianDEV/.portfolio/master/img/aimr1.jpg" alt="AI:MR Portfolio Image 1" width="50%">
-    <img src="https://raw.githubusercontent.com/LexianDEV/.portfolio/master/img/aimr2.jpg" alt="AI:MR Portfolio Image 2" width="50%">
+    <img src="https://raw.githubusercontent.com/LexianDEV/.portfolio/master/img/aimr1.jpg" alt="AI:MR Portfolio Image 1" width="30%">
+    <img src="https://raw.githubusercontent.com/LexianDEV/.portfolio/master/img/aimr2.jpg" alt="AI:MR Portfolio Image 2" width="30%">
 </div>
 
 <hr>
